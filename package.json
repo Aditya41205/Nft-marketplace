@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "ipfs-http-client": "^60.0.1"
+  }
+}
